@@ -1,9 +1,9 @@
-title: Security Research Blog - Metadust
+title: Test blog
 description: A blog powered by Jekyll & Chirpy
+url: "https://username.github.io"  
 baseurl: "" 
-url: "https://metadust.github.io" 
-theme: jekyll-theme-chirpy
 
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
